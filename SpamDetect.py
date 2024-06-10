@@ -9,7 +9,6 @@ vectorizer = joblib.load('vectorizer.pkl')
 st.title('SMS Spam Classifier')
 st.write('Enter an SMS message to classify it as spam or ham.')
 
-
 st.write("
 This app predicts Spam or Ham Message
 ")
